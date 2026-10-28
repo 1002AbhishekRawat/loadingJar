@@ -1,9 +1,0 @@
-<dependencies>
-    <dependency>
-        <groupId>com.loading</groupId>
-        <artifactId>loading</artifactId>
-        <version>1.0</version>
-        <scope>system</scope>
-        <systemPath>${project.basedir}/lib/filehandling.jar</systemPath>
-    </dependency>
-    </dependencies>
